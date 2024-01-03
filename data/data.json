@@ -1,0 +1,20 @@
+{ "class": "go.TreeModel",
+    "nodeDataArray": [
+        {"key":1, "name":"사용자", "title":"제목", "pic":"1.png"},
+        {"key":2, "name":"사용자", "title":"제목", "pic":"2.png", "parent":1},
+        {"key":3, "name":"사용자", "title":"제목", "pic":"3.png", "parent":2},
+        {"key":4, "name":"사용자", "title":"제목", "pic":"4.png", "parent":1},
+        {"key":5, "name":"사용자", "title":"제목", "pic":"5.png", "parent":4},
+        {"key":6, "name":"사용자", "title":"제목", "pic":"6.png", "parent":2},
+        {"key":7, "name":"사용자", "title":"제목", "pic":"7.png", "parent":3},
+        {"key":8, "name":"사용자", "title":"제목", "pic":"8.png", "parent":5},
+        {"key":9, "name":"사용자", "title":"제목", "pic":"9.png", "parent":6},
+        {"key":10, "name":"사용자", "title":"제목", "pic":"10.png", "parent":4},
+        {"key":11, "name":"사용자", "title":"제목", "pic":"11.png", "parent":5},
+        {"key":12, "name":"사용자", "title":"제목", "pic":"12.png", "parent":10},
+        {"key":13, "name":"사용자", "title":"제목", "pic":"13.png", "parent":10},
+        {"key":14, "name":"사용자", "title":"제목", "pic":"14.png", "parent":10},
+        {"key":15, "name":"사용자", "title":"제목", "pic":"15.png", "parent":5},
+        {"key":16, "name":"사용자", "title":"제목", "pic":"16.png", "parent":3}
+    ]
+}
